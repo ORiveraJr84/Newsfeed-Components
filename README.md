@@ -22,20 +22,20 @@ In this project we are going to be building a news feed reader. The goal is to h
 
 **Follow these steps for completing your project.**
 
-- [ ] Submit a Pull-Request to merge `<firstName-lastName>` Branch into `main` (student's Repo). **Please don't merge your own pull request**
-- [ ] Add your team lead as a reviewer on the pull-request.
-- [ ] Your team lead will count the project as complete by merging the branch back into `main` branch.
+- [✓] Submit a Pull-Request to merge `<firstName-lastName>` Branch into `main` (student's Repo). **Please don't merge your own pull request**
+- [✓] Add your team lead as a reviewer on the pull-request.
+- [✓] Your team lead will count the project as complete by merging the branch back into `main` branch.
 
 ### Launching the project
 
-- [ ] Navigate to the root of the project with your command line.
-- [ ] Run `npm install` to download any dependencies listed in the `package.json` file.
-- [ ] Run `npm start` to compile your project and launch a development server.
-- [ ] Navigate Chrome to the URL indicated in the output of the `npm start` command.
+- [✓] Navigate to the root of the project with your command line.
+- [✓] Run `npm install` to download any dependencies listed in the `package.json` file.
+- [✓] Run `npm start` to compile your project and launch a development server.
+- [✓] Navigate Chrome to the URL indicated in the output of the `npm start` command.
 
 ### Part 1: The Articles Component
 
-- Follow the instructions found in the Articles.js file to complete the JavaScript functionality and add the components to the DOM.
+✓ Follow the instructions found in the Articles.js file to complete the JavaScript functionality and add the components to the DOM.
 
 ### Part 2: Add Articles
 
